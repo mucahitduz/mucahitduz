@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hello there 👋, I'm Mücahit</h1>
+<h3> A Frontend Developer</h3>
+
 
 <!--
 **mucahitduz/mucahitduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
