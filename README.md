@@ -1,4 +1,4 @@
-<h1>Hello there 👋, I'm Mücahit</h1>
+<h1>Hello there 👋 I'm Mücahit</h1>
 <h3> A Frontend Developer</h3>
 
 <img src="./animation.gif" 
