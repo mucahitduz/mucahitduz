@@ -16,7 +16,7 @@
     ><img
       align="center"
       src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
-      alt="ahmetefecanbayat"
+      alt="mucahitduz"
       height="30"
       width="30"
   /></a>  
