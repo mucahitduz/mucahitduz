@@ -6,7 +6,7 @@
   height="300"
   width="300" />
   
-- 🔭 I’m currently learning **React**
+- 🔭 I’m currently learning **Angular**
 - 🌱 I’m currently developing **React**
 - 📫 How to reach me **mucahitduz@outlook.com**
 
@@ -38,7 +38,15 @@
       alt="javascript"
       width="40"
       height="40"
-    /> </a>  
+    /> </a>
+  
+  <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    /> </a>
 
  <a href="https://reactjs.org/" target="_blank">
     <img
