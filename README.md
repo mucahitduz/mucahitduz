@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mucahitduz/" target="blank"
     ><img
       align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
       alt="mucahitduz"
       height="30"
       width="30"
