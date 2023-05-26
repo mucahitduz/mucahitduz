@@ -17,8 +17,8 @@
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
       alt="mucahitduz"
-      height="30"
-      width="30"
+      height="40"
+      width="40"
   /></a>  
 </p>
 
