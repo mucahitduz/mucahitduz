@@ -6,8 +6,8 @@
   height="300"
   width="300" />
   
-- 🔭 I’m currently learning **Angular**
-- 🌱 I’m currently developing **React**
+- 🌱 I’m currently developing **Angular**
+- 🔭 I’m currently learning **React**
 - 📫 How to reach me **mucahitduz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
